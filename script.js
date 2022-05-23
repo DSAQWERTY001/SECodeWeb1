@@ -1,4 +1,4 @@
-
+// fffffffffff  //
 $( document ).ready(function(){
     $('#formRegister').validate({
         rules:{
